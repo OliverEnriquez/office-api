@@ -11,12 +11,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="HelloWorld" target="1.8" />
+      <module name="HelloWorld" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="HelloWorld" options="-parameters" />
+      <module name="HelloWorld" options="" />
     </option>
   </component>
 </project>
