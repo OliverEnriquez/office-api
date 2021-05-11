@@ -14,7 +14,6 @@
           <element id="module-output" name="HelloWorld" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:unknown" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.7.RELEASE" />
