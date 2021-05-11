@@ -23,7 +23,7 @@ public class ApplicationConfig {
     @Value("${HelloWorld.SiteName}")
     private String siteName;
 
-    
+
 
     /**
      * Required to inject properties using the 'Value' annotation.
